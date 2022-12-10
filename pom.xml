@@ -10,7 +10,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
-		<spring.version>4.0.9.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
 		<shiro.version>1.2.6</shiro.version>
 		<activiti.version>5.16.6</activiti.version>
 	</properties>
